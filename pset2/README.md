@@ -80,7 +80,7 @@ Insert about me
 
 ---
 ### Srirupa Datta
-<img src='https://drive.google.com/open?id=1lYOKvpDz9Fnq_zaTjKqF-N7hojsmXF9V' width='150'>
+<img src='https://github.com/Rupa1216/PCNWLab-Github/tree/master/pset2/images/Srirupa.jpg' width='150'>
 
 Avid learner of many langugaes, both human and computer.
 
