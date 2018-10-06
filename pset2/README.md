@@ -80,9 +80,9 @@ Insert about me
 
 ---
 ### Srirupa Datta
-<img src='' width='150'>
+<img src='https://drive.google.com/open?id=1lYOKvpDz9Fnq_zaTjKqF-N7hojsmXF9V' width='150'>
 
-Insert about me
+Avid learner of many langugaes, both human and computer.
 
 ---
 ### Jesmine Dejesus
